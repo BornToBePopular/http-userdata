@@ -1,9 +1,9 @@
 {
-  "son_day": 1,
-  "son_month": 8,
-  "son_year": 2022,
+  "son_day": 0,
+  "son_month": 0,
+  "son_year": 0,
 
-  "exon_day": 7,
-  "exon_month": 8,
-  "exon_year": 2022
+  "exon_day": 0,
+  "exon_month": 0,
+  "exon_year": 0
 }
